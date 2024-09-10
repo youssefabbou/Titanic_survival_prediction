@@ -66,3 +66,5 @@ Dieses Projekt zeigt, wie verschiedene Merkmale von Titanic-Passagieren, wie Ges
 - `Titanic_Analyse.ipynb`: Jupyter Notebook mit der vollständigen Analyse, EDA und Modellierung.
 - `bereinigter_titanic_datensatz.csv`: Der bereinigte Titanic-Datensatz, der für die Analyse verwendet wurde.
 - `README.md`: Diese Dokumentation.
+- `requirements.txt`: Liste der erforderlichen Python-Bibliotheken für das Projekt.
+- `README.md`: Diese Dokumentation.
